@@ -37,7 +37,7 @@ var config = {
             id: 'page01',
             title: 'ここに五輪会場を載せる',
             // image: './path/to/image/source.png',
-            description: '犯罪発生が少ない地域に五輪会場がプロットされているように見えます。（全犯罪：1〜300）',
+            description: '犯罪発生が少ない地域に五輪会場がプロットされているように見えます。',
             location: {
                 center: [139.50469, 35.71926],
                 zoom: 9.31,
@@ -133,7 +133,7 @@ var config = {
             id: 'page04',
             title: '全犯罪から空き巣等の犯罪を抽出する',
             // image: './path/to/image/source.png',
-            description: '空き巣等の心配もなさそうです。（非侵入の窃盗：1〜30）',
+            description: '空き巣等の心配もなさそうです。',
             location: {
                 center: [139.70666, 35.66718],
                 zoom: 11.50,
