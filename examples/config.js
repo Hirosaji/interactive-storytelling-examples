@@ -4,9 +4,9 @@ var config = {
     showMarkers: false,
     theme: 'light',
     alignment: 'left',
-    title: '東京の犯罪統計データを地図に載せてみた',
-    subtitle: 'Crimes Story Map with Olympic and Hot Town',
-    byline: 'By Hirosaji',
+    title: '東京都の犯罪統計 × Interactive Storytelling',
+    subtitle: '- Crimes Story Map with Olympic and Hot Town -',
+    byline: 'Hirosaji',
     footer: '出典: 警視庁 - 区市町村の町丁別、罪種別及び手口別認知件数（H31）, SUUMO - 住みたい街ランキング2020',
     chapters: [
         {

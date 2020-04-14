@@ -145,7 +145,7 @@ if (config.subtitle) {
 
 if (config.byline) {
     var bylineText = document.createElement('p');
-    bylineText.innerText = config.byline;
+    bylineText.innerHTML = 'created by <a href="https://github.com/Hirosaji">' + config.byline + '</a>';
     header.appendChild(bylineText);
 }
 
