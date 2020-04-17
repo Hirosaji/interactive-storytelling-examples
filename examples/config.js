@@ -131,7 +131,7 @@ var config = {
         },
         {
             id: 'page04',
-            title: '全犯罪から空き巣等の犯罪を抽出する',
+            title: '空き巣等の犯罪だけに絞ってみる',
             // image: './path/to/image/source.png',
             description: '空き巣等の心配もなさそうです。',
             location: {
